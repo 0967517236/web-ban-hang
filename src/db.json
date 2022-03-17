@@ -1,0 +1,137 @@
+{
+  "products": [
+    {
+      "name": "Mi tom",
+      "image": "https://rawcdn.githack.com/0967517236/imgProduct/ebd9dbfd31708a0aa3ebe6d072b9cc0eccb98353/590-HH-TCC.png",
+      "total": 69,
+      "price": "508",
+      "sale": "5%",
+      "description": "Ngon từng sợi mì",
+      "categoryName": "Mì",
+      "categoryId": 1,
+      "id": 1
+    },
+    {
+      "name": "Bia",
+      "image": "https://rawcdn.githack.com/0967517236/imgProduct/ebd9dbfd31708a0aa3ebe6d072b9cc0eccb98353/untitled202-1569290908740994550588-crop-15692909336251119513158.png",
+      "total": 69,
+      "price": "10000",
+      "sale": "8%",
+      "description": "Vị ngon trên từng thành cốc",
+      "categoryName": "Đồ uống",
+      "categoryId": 2,
+      "id": 2
+    },
+    {
+      "name": "Sữa",
+      "image": "https://rawcdn.githack.com/0967517236/imgProduct/ebd9dbfd31708a0aa3ebe6d072b9cc0eccb98353/Sua_tuoi_tiet_trung_co_duong_Vinamilk_180ml.jpg",
+      "total": "69",
+      "price": "6000",
+      "sale": "0%",
+      "description": "Ngon trên từng cú mút",
+      "categoryName": "Đồ uống",
+      "categoryId": "2",
+      "id": "4",
+      "category": "Đồ uống"
+    },
+    {
+      "name": "khungLongXanh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/imagereact-7aa91.appspot.com/o/images%2F187-1873938_monkas-hands-up.png?alt=media&token=6a2ced09-cf27-4173-ae13-733481f7eaeb",
+      "total": "25",
+      "price": "22",
+      "sale": "0%",
+      "category": "khungLong",
+      "id": "4fcbtqlfs"
+    },
+    {
+      "id": "1bmdulb2f",
+      "name": "khungLongVang",
+      "image": "https://firebasestorage.googleapis.com/v0/b/imagereact-7aa91.appspot.com/o/images%2Fdownload.png?alt=media&token=42b673ad-bf7f-4149-8cfa-588603817a4e",
+      "total": "442",
+      "price": "22222",
+      "description": "thuong thuong",
+      "sale": "0%",
+      "category": "khungLong"
+    },
+    {
+      "id": "r7fqyeuys",
+      "name": "khungLongVang",
+      "image": "https://firebasestorage.googleapis.com/v0/b/imagereact-7aa91.appspot.com/o/images%2Fdownload.png?alt=media&token=42b673ad-bf7f-4149-8cfa-588603817a4e",
+      "total": "442",
+      "price": "22222",
+      "description": "thuong thuong",
+      "sale": "0%",
+      "category": "khungLong"
+    },
+    {
+      "id": "j26c1xex3",
+      "name": "khungLongVang",
+      "image": "https://firebasestorage.googleapis.com/v0/b/imagereact-7aa91.appspot.com/o/images%2Fdownload.png?alt=media&token=42b673ad-bf7f-4149-8cfa-588603817a4e",
+      "total": "442",
+      "price": "22222",
+      "description": "thuong thuong",
+      "sale": "0%",
+      "category": "khungLong"
+    },
+    {
+      "id": "8swb7tuzx",
+      "name": "Nguyễn Thành Thái",
+      "image": "https://firebasestorage.googleapis.com/v0/b/imagereact-7aa91.appspot.com/o/images%2F50815770_1884429211684244_3186612485180358656_n.jpg?alt=media&token=7dda358b-50c0-4adf-ad52-3fd75239ad83",
+      "total": "1",
+      "price": "9999999999999999",
+      "description": "Ngon",
+      "sale": "23%",
+      "category": "Đồ ngọt"
+    },
+    {
+      "id": "6vzqmbgvi",
+      "name": "Nguyễn Thành Thái",
+      "image": "https://firebasestorage.googleapis.com/v0/b/imagereact-7aa91.appspot.com/o/images%2F50815770_1884429211684244_3186612485180358656_n.jpg?alt=media&token=0e8a4567-6e6b-4bd7-9585-f27eca579ccc",
+      "total": "1",
+      "price": "9999999999999999",
+      "description": "Ngon",
+      "sale": "23%",
+      "category": "Đồ ngọt"
+    },
+    {
+      "id": "f2tpc9jfd",
+      "name": "cat",
+      "image": "https://firebasestorage.googleapis.com/v0/b/imagereact-7aa91.appspot.com/o/images%2FFB_IMG_1578279390547.jpg?alt=media&token=68cc48a1-062f-4ec0-a365-c4abdb338d1b",
+      "total": "12",
+      "price": "5000",
+      "description": "meoww meowwwwwwww",
+      "sale": "8%",
+      "category": "Động vật"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Mì "
+    },
+    {
+      "id": "2",
+      "name": "Đồ uống"
+    },
+    {
+      "id": "3",
+      "name": "Đồ ngọt"
+    }
+  ],
+  
+    "about":[
+      {
+        "tittle":"Blanditiis praesentium deleniti atque corrupti quos",
+        "content1":"Gnissimos voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi. atque corrupti quos dolores et quas molestias excepturi sint occaecat officia deserunt mollitia laborum et dolorum fuga.  ",
+        "content2":"Dignissimos at vero eos et accusamus et iusto odio ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecat officia deserunt mollitia laborum et dolorum fuga. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecat atque corrupti quos dolores et quas molestias excepturi sint occaecat officia deserunt mollitia laborum et dolorum"
+        
+      },{
+        "tittle":"Blanditiis praesentium deleniti atque corrupti quos",
+        "content1":"Gnissimos voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi. atque corrupti quos dolores et quas molestias excepturi sint occaecat officia deserunt mollitia laborum et dolorum fuga.  ",
+        "content2":"Dignissimos at vero eos et accusamus et iusto odio ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecat officia deserunt mollitia laborum et dolorum fuga. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecat atque corrupti quos dolores et quas molestias excepturi sint occaecat officia deserunt mollitia laborum et dolorum"
+        
+      }
+
+    ]
+  
+}
